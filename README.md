@@ -1,12 +1,8 @@
 # Filter Menus
 
-The objective is to build the UI elements using React and [Tailwind CSS](https://tailwindcss.com) of a menu component for managing different types of database filters.
-
-<center>
+The objective is to build the UI elements of a menu component using React and [Tailwind CSS](https://tailwindcss.com). This component might be used for managing different types of database filters.
 
 ![A menu for creating filters](./filter.png)
-
-</center>
 
 ### Goal #1
 
